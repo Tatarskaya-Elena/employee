@@ -2,6 +2,8 @@ package ru.alligator.employee.domain;
 
 import jakarta.persistence.Column;
 import jakarta.persistence.Entity;
+import jakarta.persistence.EnumType;
+import jakarta.persistence.Enumerated;
 import jakarta.persistence.FetchType;
 import jakarta.persistence.Id;
 import jakarta.persistence.ManyToOne;
@@ -31,7 +33,10 @@ public class Employee {
     @Column (length = 32)
     private String email;
 
-     private Boolean deleted;
+    @Enumerated(EnumType.STRING)
+    private Position position;
+    
+    private Boolean deleted;
 
     @Version
     private Long ts;
