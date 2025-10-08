@@ -19,7 +19,7 @@ import java.util.stream.Collectors;
 @Service
 @RequiredArgsConstructor
 public class DepartmentService {
-    private final DepartmentRepository repo;
+    private final DepartmentMapper repo;
     private final DepartmentMapper mapper;
 
     private void toToEntity(Department department, DepartmentTo departmentTo) {
