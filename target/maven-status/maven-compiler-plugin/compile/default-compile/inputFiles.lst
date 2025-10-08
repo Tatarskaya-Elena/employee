@@ -1,1 +1,10 @@
 /home/misha/employee/src/main/java/ru/alligator/employee/EmployeeApplication.java
+/home/misha/employee/src/main/java/ru/alligator/employee/domain/Department.java
+/home/misha/employee/src/main/java/ru/alligator/employee/domain/Employee.java
+/home/misha/employee/src/main/java/ru/alligator/employee/domain/Position.java
+/home/misha/employee/src/main/java/ru/alligator/employee/dto/DepartmentTo.java
+/home/misha/employee/src/main/java/ru/alligator/employee/dto/EmployeeTo.java
+/home/misha/employee/src/main/java/ru/alligator/employee/mapper/DepartmentMapper.java
+/home/misha/employee/src/main/java/ru/alligator/employee/mapper/EmployeeMapper.java
+/home/misha/employee/target/generated-sources/java/ru/alligator/employee/domain/QDepartment.java
+/home/misha/employee/target/generated-sources/java/ru/alligator/employee/domain/QEmployee.java

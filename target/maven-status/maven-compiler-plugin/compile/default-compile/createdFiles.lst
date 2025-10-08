@@ -1,1 +1,12 @@
+ru/alligator/employee/dto/EmployeeTo.class
+ru/alligator/employee/domain/QEmployee.class
+ru/alligator/employee/dto/DepartmentTo.class
+ru/alligator/employee/domain/Department.class
+ru/alligator/employee/domain/Position.class
+ru/alligator/employee/domain/QDepartment.class
 ru/alligator/employee/EmployeeApplication.class
+ru/alligator/employee/mapper/DepartmentMapperImpl.class
+ru/alligator/employee/domain/Employee.class
+ru/alligator/employee/mapper/DepartmentMapper.class
+ru/alligator/employee/mapper/EmployeeMapperImpl.class
+ru/alligator/employee/mapper/EmployeeMapper.class

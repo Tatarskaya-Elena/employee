@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: ru.alligator.employee.EmployeeApplicationTests
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 17.42 s -- in ru.alligator.employee.EmployeeApplicationTests
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 28.49 s -- in ru.alligator.employee.EmployeeApplicationTests
